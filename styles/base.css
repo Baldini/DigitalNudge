@@ -21,11 +21,19 @@ body {
 
 .card {
   background-color: #00ADF0;
-  /*width: 300px;*/
   margin: 30px;
-  /*float: left;*/
 }
 
 .card-action.action-color {
   color: #493382;
+}
+
+.text-hero {
+  margin: 30px;
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
+
+.text-hero h1 {
+  color: #EE5BA0;
 }
