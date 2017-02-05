@@ -5,6 +5,7 @@
 
 body {
   background-color: #FFE302;
+  font-weight: bold;
 }
 
 .nav-extended.color-default {
@@ -40,4 +41,4 @@ body {
 
 .btn.color-default {
   background-color: #493382;
-} 
+}
